@@ -1,2 +1,2 @@
 # blog
-a blog repository
+A blog repository
